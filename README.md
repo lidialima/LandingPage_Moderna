@@ -4,7 +4,7 @@ Este projeto é uma landing page temática de NFTs, criada com design responsivo
 
 ## 🎨 Design
 
-O layout foi cuidadosamente escolhido para refletir o espírito inovador e criativo do mundo dos NFTs. Você pode visualizar o design original [aqui](#)
+O layout foi cuidadosamente escolhido para refletir o espírito inovador e criativo do mundo dos NFTs. Você pode visualizar o design original [[aqui](https://lidialima.github.io/LandingPage_Moderna/)](#)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -24,6 +24,7 @@ Este projeto foi criado como parte de meu aprendizado contínuo em desenvolvimen
 Todo o desenvolvimento deste projeto foi baseado nas aulas do canal [@leevy6390](https://www.youtube.com/@leevy6390), que oferece tutoriais práticos e acessíveis para desenvolvedores de todos os níveis.
 
 ## 📸 Preview
+Confira aqui: https://lidialima.github.io/LandingPage_Moderna/
 ![image](https://github.com/user-attachments/assets/b6cca732-5239-41d9-8ce8-2f463adbc278)
 
 
